@@ -44,7 +44,7 @@ The following image shows the hardware circuit used for the project.
 
 The following image shows the observed output waveform.
 
-![Output Waveform](images/output-waveform.mp4)
+![Output Waveform](images/OUTPUT_WAVEFORM.mp4)
 
 ## 📊 Results and Conclusion
 
